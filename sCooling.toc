@@ -1,0 +1,12 @@
+## Interface: 60000
+## Title: sCooling
+## Author: Shaana
+## Version: 1.0 beta
+## Dependencies: sCore
+## Notes: Displays cooldown buttons
+
+config.lua
+
+sCooling.lua
+
+
